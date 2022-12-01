@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	font-family:sans-serif;
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+width:80%;
+margin:30px auto;
+text-align:center;
+}
+.address{
+	width:100%;
+	padding:30px 0px;
+	box-shadow: 0 0 10px grey;
+	
+}
+.mail{
+	width:45%;
+	margin: 50px 0px;
+	padding:30px 0px;
+	box-shadow: 0 0 10px grey;
+}
+.con{
+	width:45%;
+	margin: 50px 0px;
+	padding:30px 0px;
+	box-shadow: 0 0 10px grey;
+}
+.icon i{
+background-color:white;
+color:#08b1b0;
+padding:10px;
+border-radius:50%;
+border:2px dotted #08b1b0;	
+}
+p{
+	padding:5px;
+}
+h3{
+	padding:5px;
+}
